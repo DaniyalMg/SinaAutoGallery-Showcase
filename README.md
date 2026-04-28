@@ -44,6 +44,6 @@
 
 ![صفحه اصلی](SinaAutoGallery_image2.png)
 
-![صفحه اصلی](SinaAutoGallery_image3.png)
+![صفحه اصلی](SinaAutoGallery_image4.png)
 
 ---
